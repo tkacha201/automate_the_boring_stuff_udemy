@@ -1,1 +1,2 @@
-# automate_the_boring_stuff_udemy
+# Automate the boring stuff with python scripts
+
